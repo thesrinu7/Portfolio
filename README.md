@@ -1,4 +1,4 @@
-# <a href="https://github.com/thesrinu7/Portfolio.git">Personal Portfolio website</a>
+# <a href="https://srinivas-portfolio27.vercel.app/">Personal Portfolio website</a>
 
 ## Overview
 

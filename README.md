@@ -1,4 +1,4 @@
-# Personal Portfolio Website
+# <a href="https://github.com/thesrinu7/Portfolio.git">Personal Portfolio website</a>
 
 ## Overview
 
@@ -23,7 +23,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. The
 
 ## Projects Included
 
-### Calculator App
+### <a href="https://basic-calculator-127.netlify.app/">Basic Calculator</a>
 
 * Built a basic calculator using JavaScript.
 * Supports addition, subtraction, multiplication, and division.
